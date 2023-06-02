@@ -7,7 +7,7 @@ Implements parallel versions of the mean and median filter algorithms to smooth 
 ## Running the programs
 A Makefile has been provided to compile the programs, open a terminal and run "make" to compile\
 Alternatively run "javac" on the programs inside the "src" folder\
-Each of the programs takes in command line arguments in the form: <input> <output> <windowWidth>\ 
+Each of the programs takes in command line arguments in the form: "input output windowWidth"\ 
 where input is the image to apply the filters on (sample file provided input.jpg)\ 
 Output is the name of the file you wish to save the changes to\ 
 WindowWidth is the size of the sliding window used in the algorithm, must be odd number >= 3\
