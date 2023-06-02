@@ -1,5 +1,4 @@
 # Makfile
-# 03 August 2022
 # Ncube Manelisi
 
 .SUFFIXES: .java .class
